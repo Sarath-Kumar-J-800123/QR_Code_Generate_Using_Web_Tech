@@ -8,7 +8,7 @@
 body{
     width: 100%;
     height: 100vh;
-    background-image: url(Image/QRCodeImg1.jpeg);
+    background-image: url(QRCodeImg1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
