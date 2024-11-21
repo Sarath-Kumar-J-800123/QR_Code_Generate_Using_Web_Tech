@@ -5,7 +5,18 @@
     box-sizing: border-box;
 }
 
-.showcase{
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Image/QRCodeImg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 5px solid #00bfff;
+    border-radius: 20px;
+}
+
+/* .showcase{
 	position: relative;
 	height: 100vh;
 	display: flex;
@@ -24,7 +35,7 @@
 	overflow:hidden;
 	border: 5px solid #00bfff;
     border-radius: 20px;
-}
+} */
 .container{
     width: 400px;
     padding: 25px 35px;
